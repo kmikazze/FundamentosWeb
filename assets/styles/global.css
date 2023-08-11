@@ -112,3 +112,10 @@ body::-webkit-scrollbar-thumb {
 body.dark-theme::-webkit-scrollbar-track {
     background: var(--white);
 }
+
+.dark-theme .img_b{
+    display: none;
+}
+.dark-theme .img_w{
+    display: block;
+}

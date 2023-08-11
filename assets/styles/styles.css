@@ -192,6 +192,10 @@ h4 {
     }
 }
 
+.img_w{
+    display: none;
+}
+
 .section_container {
     max-width: 1120px;
     margin: -1.5rem auto;
