@@ -73,6 +73,10 @@ body::-webkit-scrollbar-thumb {
     background: var(--orange-500)
 }
 
+.img_github{
+    height: 300px;
+}
+
 /* DARK THEME */
 
 .dark-theme{
